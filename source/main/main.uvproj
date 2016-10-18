@@ -475,6 +475,41 @@
             </File>
           </Files>
         </Group>
+        <Group>
+          <GroupName>module</GroupName>
+          <Files>
+            <File>
+              <FileName>AM2320.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\module\AM2320.c</FilePath>
+            </File>
+            <File>
+              <FileName>DS3231.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\module\DS3231.c</FilePath>
+            </File>
+            <File>
+              <FileName>sensor.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\module\sensor.c</FilePath>
+            </File>
+            <File>
+              <FileName>si4432.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\module\si4432.c</FilePath>
+            </File>
+            <File>
+              <FileName>HC164LED.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\module\HC164LED.c</FilePath>
+            </File>
+            <File>
+              <FileName>MAX485.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\module\MAX485.c</FilePath>
+            </File>
+          </Files>
+        </Group>
       </Groups>
     </Target>
   </Targets>

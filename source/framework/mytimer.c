@@ -220,11 +220,7 @@ VOID TMR0_IRQHandler(VOID)
 {
 	//清除TMR0中断标志位
 	TISR0 |= TMR_TIF; 
-	Time0out ++;
-	if(Time0out%60 == 0)
-	{
-		Time0Signal = 1; 
-	}
+	Time0out++;
 }
  
 /****************************************

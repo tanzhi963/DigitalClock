@@ -36,6 +36,13 @@
 
 
 //包含模块头文件
+#include "../module/AM2320.h"
+#include "../module/DS3231.h"
+#include "../module/sensor.h"
+#include "../module/si4432.h"
+#include "../module/HC164LED.h"
+#include "../module/MAX485.h"
+
 
 
 

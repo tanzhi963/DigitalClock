@@ -162,7 +162,7 @@ void bit_set(uchar port,uchar bit,uchar value)
 
 void bit_turn(uchar port,uchar bit)
 {
-	uchar temp;
+	uchar temp = 0x00;
 	switch(port)
 	{
 		case 0:

@@ -32,30 +32,31 @@ void SystemInit(void)
 ******************************************/
 INT32 main(VOID)
 {
+	
+	uint a=0;
     
 	SystemInit();          //全局初始化函数
 	printf("hello\r\n");
 	
 	StarTime0(50000);
-	
+	LED_reflash(a);
 	while(1)
     {
         
+		LED_show();
         
-		Delayms(500);
-        bit_turn(0,1);
-        
+        if(Time0out > 0)
+        {
+            Time0out = 0;
+			a++;
+			LED_reflash(a);
+        }
 		
         if(Time1out > 0)
         {
             Time1out = 0;
-            Analyze_time1();
         }
-        if(Time0Signal == 1)//一段时间处理一次触发信息
-		{
-			Time0Signal = 0;
-			
-		}   
+		
         Feed_WatchDog();            //复位看门狗		
 	}
     

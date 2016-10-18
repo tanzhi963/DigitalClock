@@ -123,7 +123,7 @@ void disconnectProcess(void)
             connectState = 0;                    //连接状态改为未连接
             sensorState = 0;                     //准备状态改为无信号
             
-            MySignal ++;                                        //发出被遮挡信号
+//             MySignal ++;                                        //发出被遮挡信号
         }
     }
 }

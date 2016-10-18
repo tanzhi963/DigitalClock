@@ -7,7 +7,6 @@
 #include "dataprocess.h" 
 
 
-volatile UINT8 Time0Signal;
 
 /****************************************
 *º¯ÊýÃû³Æ:Init_dataprocess 
