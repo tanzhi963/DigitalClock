@@ -1,0 +1,133 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=D? NewDesignator=D5
+Change Component Designator: OldDesignator=D? NewDesignator=D6
+Change Component Designator: OldDesignator=D? NewDesignator=D7
+Change Component Designator: OldDesignator=D? NewDesignator=D8
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD8_1
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD4_2
+Change Net Name : Old Net Name=NetD?_3 New Net Name=NetD4_3
+Change Net Name : Old Net Name=NetD?_4 New Net Name=NetD1_4
+Change Net Name : Old Net Name=NetD?_5 New Net Name=NetD5_5
+Change Net Name : Old Net Name=NetD?_6 New Net Name=NetD5_6
+Change Net Name : Old Net Name=NetD?_7 New Net Name=NetD5_7
+Change Net Name : Old Net Name=NetD?_8 New Net Name=NetD5_8
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=U1-48
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=U1-47
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD1_3 Pin=D1-3
+Added Pin To Net: NetName=NetD1_3 Pin=U1-46
+Added Net: Name=NetD1_3
+Added Pin To Net: NetName=NetD1_5 Pin=D1-5
+Added Pin To Net: NetName=NetD1_5 Pin=D2-5
+Added Pin To Net: NetName=NetD1_5 Pin=D3-5
+Added Pin To Net: NetName=NetD1_5 Pin=D4-5
+Added Pin To Net: NetName=NetD1_5 Pin=U1-30
+Added Net: Name=NetD1_5
+Added Pin To Net: NetName=NetD1_6 Pin=D1-6
+Added Pin To Net: NetName=NetD1_6 Pin=D2-6
+Added Pin To Net: NetName=NetD1_6 Pin=D3-6
+Added Pin To Net: NetName=NetD1_6 Pin=D4-6
+Added Pin To Net: NetName=NetD1_6 Pin=U1-29
+Added Net: Name=NetD1_6
+Added Pin To Net: NetName=NetD1_7 Pin=D1-7
+Added Pin To Net: NetName=NetD1_7 Pin=D2-7
+Added Pin To Net: NetName=NetD1_7 Pin=D3-7
+Added Pin To Net: NetName=NetD1_7 Pin=D4-7
+Added Pin To Net: NetName=NetD1_7 Pin=U1-28
+Added Net: Name=NetD1_7
+Added Pin To Net: NetName=NetD1_8 Pin=D1-8
+Added Pin To Net: NetName=NetD1_8 Pin=D2-8
+Added Pin To Net: NetName=NetD1_8 Pin=D3-8
+Added Pin To Net: NetName=NetD1_8 Pin=D4-8
+Added Pin To Net: NetName=NetD1_8 Pin=U1-27
+Added Net: Name=NetD1_8
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=U1-44
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=U1-43
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD2_3 Pin=D2-3
+Added Pin To Net: NetName=NetD2_3 Pin=U1-42
+Added Net: Name=NetD2_3
+Added Pin To Net: NetName=NetD2_4 Pin=D2-4
+Added Pin To Net: NetName=NetD2_4 Pin=U1-41
+Added Net: Name=NetD2_4
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=U1-40
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=U1-39
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD3_3 Pin=D3-3
+Added Pin To Net: NetName=NetD3_3 Pin=U1-37
+Added Net: Name=NetD3_3
+Added Pin To Net: NetName=NetD3_4 Pin=D3-4
+Added Pin To Net: NetName=NetD3_4 Pin=U1-35
+Added Net: Name=NetD3_4
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=U1-34
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD4_4 Pin=D4-4
+Added Pin To Net: NetName=NetD4_4 Pin=U1-31
+Added Net: Name=NetD4_4
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=U1-49
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=U1-50
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD5_3 Pin=D5-3
+Added Pin To Net: NetName=NetD5_3 Pin=U1-51
+Added Net: Name=NetD5_3
+Added Pin To Net: NetName=NetD5_4 Pin=D5-4
+Added Pin To Net: NetName=NetD5_4 Pin=U1-52
+Added Net: Name=NetD5_4
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=U1-1
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=U1-2
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetD6_3 Pin=D6-3
+Added Pin To Net: NetName=NetD6_3 Pin=U1-3
+Added Net: Name=NetD6_3
+Added Pin To Net: NetName=NetD6_4 Pin=D6-4
+Added Pin To Net: NetName=NetD6_4 Pin=U1-4
+Added Net: Name=NetD6_4
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_1 Pin=U1-5
+Added Net: Name=NetD7_1
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=U1-6
+Added Net: Name=NetD7_2
+Added Pin To Net: NetName=NetD7_3 Pin=D7-3
+Added Pin To Net: NetName=NetD7_3 Pin=U1-8
+Added Net: Name=NetD7_3
+Added Pin To Net: NetName=NetD7_4 Pin=D7-4
+Added Pin To Net: NetName=NetD7_4 Pin=U1-9
+Added Net: Name=NetD7_4
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=U1-11
+Added Net: Name=NetD8_2
+Added Pin To Net: NetName=NetD8_3 Pin=D8-3
+Added Pin To Net: NetName=NetD8_3 Pin=U1-12
+Added Net: Name=NetD8_3
+Added Pin To Net: NetName=NetD8_4 Pin=D8-4
+Added Pin To Net: NetName=NetD8_4 Pin=U1-13
+Added Net: Name=NetD8_4
+Added Member To Class: ClassName=main Member=Component D1 LED8*8-TOP
+Added Member To Class: ClassName=main Member=Component D2 LED8*8-TOP
+Added Member To Class: ClassName=main Member=Component D3 LED8*8-TOP
+Added Member To Class: ClassName=main Member=Component D4 LED8*8-TOP
+Added Member To Class: ClassName=main Member=Component D5 LED8*8-BOTTOM
+Added Member To Class: ClassName=main Member=Component D6 LED8*8-BOTTOM
+Added Member To Class: ClassName=main Member=Component D7 LED8*8-BOTTOM
+Added Room: Name=main

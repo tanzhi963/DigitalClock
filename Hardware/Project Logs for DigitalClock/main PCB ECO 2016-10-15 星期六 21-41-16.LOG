@@ -1,0 +1,81 @@
+Added Component: Designator=Q1(SOT-23-MOS)
+Added Component: Designator=Q2(SOT-23-MOS)
+Added Component: Designator=Q3(SOT-23-MOS)
+Added Component: Designator=Q4(SOT-23-MOS)
+Added Component: Designator=Q5(SOT-23-MOS)
+Added Component: Designator=Q6(SOT-23-MOS)
+Added Component: Designator=Q7(SOT-23-MOS)
+Added Component: Designator=Q8(SOT-23-MOS)
+Added Component: Designator=Q9(SOT-23-MOS)
+Added Component: Designator=Q10(SOT-23-MOS)
+Added Component: Designator=Q11(SOT-23-MOS)
+Added Component: Designator=Q12(SOT-23-MOS)
+Added Component: Designator=Q13(SOT-23-MOS)
+Added Component: Designator=Q14(SOT-23-MOS)
+Added Component: Designator=Q15(SOT-23-MOS)
+Added Component: Designator=Q16(SOT-23-MOS)
+Added Pin To Net: NetName=LINE1COM1C Pin=Q1-D
+Added Pin To Net: NetName=LINE1COM1 Pin=Q1-G
+Added Pin To Net: NetName=GND Pin=Q1-S
+Added Pin To Net: NetName=LINE1COM2C Pin=Q2-D
+Added Pin To Net: NetName=LINE1COM2 Pin=Q2-G
+Added Pin To Net: NetName=GND Pin=Q2-S
+Added Pin To Net: NetName=LINE1COM3C Pin=Q3-D
+Added Pin To Net: NetName=LINE1COM3 Pin=Q3-G
+Added Pin To Net: NetName=GND Pin=Q3-S
+Added Pin To Net: NetName=LINE1COM4C Pin=Q4-D
+Added Pin To Net: NetName=LINE1COM4 Pin=Q4-G
+Added Pin To Net: NetName=GND Pin=Q4-S
+Added Pin To Net: NetName=LINE1COM5C Pin=Q5-D
+Added Pin To Net: NetName=LINE1COM5 Pin=Q5-G
+Added Pin To Net: NetName=GND Pin=Q5-S
+Added Pin To Net: NetName=LINE1COM6C Pin=Q6-D
+Added Pin To Net: NetName=LINE1COM6 Pin=Q6-G
+Added Pin To Net: NetName=GND Pin=Q6-S
+Added Pin To Net: NetName=LINE1COM7C Pin=Q7-D
+Added Pin To Net: NetName=LINE1COM7 Pin=Q7-G
+Added Pin To Net: NetName=GND Pin=Q7-S
+Added Pin To Net: NetName=LINE1COM8C Pin=Q8-D
+Added Pin To Net: NetName=LINE1COM8 Pin=Q8-G
+Added Pin To Net: NetName=GND Pin=Q8-S
+Added Pin To Net: NetName=LINE2COM1C Pin=Q9-D
+Added Pin To Net: NetName=LINE2COM1 Pin=Q9-G
+Added Pin To Net: NetName=GND Pin=Q9-S
+Added Pin To Net: NetName=LINE2COM2C Pin=Q10-D
+Added Pin To Net: NetName=LINE2COM2 Pin=Q10-G
+Added Pin To Net: NetName=GND Pin=Q10-S
+Added Pin To Net: NetName=LINE2COM3C Pin=Q11-D
+Added Pin To Net: NetName=LINE2COM3 Pin=Q11-G
+Added Pin To Net: NetName=GND Pin=Q11-S
+Added Pin To Net: NetName=LINE2COM4C Pin=Q12-D
+Added Pin To Net: NetName=LINE2COM4 Pin=Q12-G
+Added Pin To Net: NetName=GND Pin=Q12-S
+Added Pin To Net: NetName=LINE2COM5C Pin=Q13-D
+Added Pin To Net: NetName=LINE2COM5 Pin=Q13-G
+Added Pin To Net: NetName=GND Pin=Q13-S
+Added Pin To Net: NetName=LINE2COM6C Pin=Q14-D
+Added Pin To Net: NetName=LINE2COM6 Pin=Q14-G
+Added Pin To Net: NetName=GND Pin=Q14-S
+Added Pin To Net: NetName=LINE2COM7C Pin=Q15-D
+Added Pin To Net: NetName=LINE2COM7 Pin=Q15-G
+Added Pin To Net: NetName=GND Pin=Q15-S
+Added Pin To Net: NetName=LINE2COM8C Pin=Q16-D
+Added Pin To Net: NetName=LINE2COM8 Pin=Q16-G
+Added Pin To Net: NetName=GND Pin=Q16-S
+Added Member To Class: ClassName=main Member=Component Q1 AO3418
+Added Member To Class: ClassName=main Member=Component Q2 AO3418
+Added Member To Class: ClassName=main Member=Component Q3 AO3418
+Added Member To Class: ClassName=main Member=Component Q4 AO3418
+Added Member To Class: ClassName=main Member=Component Q5 AO3418
+Added Member To Class: ClassName=main Member=Component Q6 AO3418
+Added Member To Class: ClassName=main Member=Component Q7 AO3418
+Added Member To Class: ClassName=main Member=Component Q8 AO3418
+Added Member To Class: ClassName=main Member=Component Q9 AO3418
+Added Member To Class: ClassName=main Member=Component Q10 AO3418
+Added Member To Class: ClassName=main Member=Component Q11 AO3418
+Added Member To Class: ClassName=main Member=Component Q12 AO3418
+Added Member To Class: ClassName=main Member=Component Q13 AO3418
+Added Member To Class: ClassName=main Member=Component Q14 AO3418
+Added Member To Class: ClassName=main Member=Component Q15 AO3418
+Added Member To Class: ClassName=main Member=Component Q16 AO3418
+Added Room: Name=main

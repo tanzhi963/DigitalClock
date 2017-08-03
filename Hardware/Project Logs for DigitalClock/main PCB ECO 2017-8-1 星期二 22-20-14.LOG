@@ -1,0 +1,9 @@
+Added Component: Designator=U8(MLT-8530)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=U8-1
+Added Pin To Net: NetName=NetQ1_3 Pin=U8-2
+Added Pin To Net: NetName=GND Pin=U8-3
+Added Pin To Net: NetName=GND Pin=U8-3
+Added Pin To Net: NetName=GND Pin=U8-3
+Added Pin To Net: NetName=GND Pin=U8-3
+Added Member To Class: ClassName=main Member=Component U8 MLT-8530

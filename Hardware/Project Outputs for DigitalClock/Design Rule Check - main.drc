@@ -1,0 +1,63 @@
+Protel Design System Design Rule Check
+PCB File : D:\MyFiles\MyProject\Hardware\DigitalClock\Hardware\main.PcbDoc
+Date     : 2017/8/3 ÐÇÆÚËÄ
+Time     : 23:25:22
+
+Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
+   Violation between Clearance Constraint: (5.709mil < 7mil) Between Pad J1-5(1714mil,2038.181mil) on Bottom Layer And Arc (1693.646mil,2065.74mil) on Keep-Out Layer 
+   Violation between Clearance Constraint: (5.709mil < 7mil) Between Pad J1-1(1714mil,1935.819mil) on Bottom Layer And Arc (1693.646mil,1908.26mil) on Keep-Out Layer 
+Rule Violations :2
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net NetR16_3 Between Pad S3-1(3076.055mil,1895.362mil) on Bottom Layer And Pad R16-3(3117.252mil,2058.315mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetR16_2 Between Pad S2-1(3311.055mil,1896.362mil) on Bottom Layer And Pad S2-4(3311.055mil,2191.638mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net NetR16_1 Between Pad S1-1(3530.055mil,1899.362mil) on Bottom Layer And Pad S1-4(3530.055mil,2194.638mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net NetD9_5 Between Track (2937.008mil,2535.669mil)(2937.008mil,2599mil) on Top Layer And Track (1721mil,2610mil)(4183mil,2610mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (1735mil,2041mil) from Top Layer to Bottom Layer And Pad U3-3(1860.512mil,1962.315mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad S1-2(3411.945mil,1899.362mil) on Bottom Layer And Via (3471mil,1931mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net NetD5_6 Between Track (4492.913mil,2703mil)(4492.913mil,2850.63mil) on Bottom Layer And Track (3235mil,2701mil)(5680mil,2701mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net NetD5_8 Between Track (3837.008mil,2850.787mil)(3837.008mil,2981mil) on Bottom Layer And Track (2670.35mil,2991.35mil)(6273mil,2991.35mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net NetD5_8 Between Track (5092.913mil,2850.787mil)(5092.913mil,2981mil) on Bottom Layer And Track (2670.35mil,2991.35mil)(6273mil,2991.35mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net NetD1_8 Between Track (5308mil,3689.913mil)(6243.063mil,3689.913mil) on Bottom Layer And Track (5303.315mil,3544.15mil)(5303.315mil,3689.913mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net NetD1_8 Between Track (5092.913mil,3691.087mil)(5092.913mil,3795.512mil) on Bottom Layer And Track (5062mil,3659mil)(5092.913mil,3689.913mil) on Bottom Layer 
+Rule Violations :11
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=50mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk primitive without silk layer
+Rule Violations :0
+
+
+Violations Detected : 13
+Time Elapsed        : 00:00:02

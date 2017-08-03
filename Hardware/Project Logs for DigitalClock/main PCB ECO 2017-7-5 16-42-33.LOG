@@ -1,0 +1,63 @@
+Added Component: Designator=D?(LED8*8-half)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D?(LED8*8-half)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D?(LED8*8-half)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D?(LED8*8-half)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D?(LED8*8-half)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D?(LED8*8-half)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D?(LED8*8-half)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D?(LED8*8-half)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U?(QFP52-14mm-1.0mm)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=U?-10
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=U?-33
+Added Net: Name=NetD?_2
+Added Pin To Net: NetName=NetD?_3 Pin=D?-3
+Added Pin To Net: NetName=NetD?_3 Pin=U?-32
+Added Net: Name=NetD?_3
+Added Pin To Net: NetName=NetD?_4 Pin=D?-4
+Added Pin To Net: NetName=NetD?_4 Pin=U?-45
+Added Net: Name=NetD?_4
+Added Pin To Net: NetName=NetD?_5 Pin=D?-5
+Added Pin To Net: NetName=NetD?_5 Pin=D?-5
+Added Pin To Net: NetName=NetD?_5 Pin=D?-5
+Added Pin To Net: NetName=NetD?_5 Pin=D?-5
+Added Pin To Net: NetName=NetD?_5 Pin=U?-26
+Added Net: Name=NetD?_5
+Added Pin To Net: NetName=NetD?_6 Pin=D?-6
+Added Pin To Net: NetName=NetD?_6 Pin=D?-6
+Added Pin To Net: NetName=NetD?_6 Pin=D?-6
+Added Pin To Net: NetName=NetD?_6 Pin=D?-6
+Added Pin To Net: NetName=NetD?_6 Pin=U?-24
+Added Net: Name=NetD?_6
+Added Pin To Net: NetName=NetD?_7 Pin=D?-7
+Added Pin To Net: NetName=NetD?_7 Pin=D?-7
+Added Pin To Net: NetName=NetD?_7 Pin=D?-7
+Added Pin To Net: NetName=NetD?_7 Pin=D?-7
+Added Pin To Net: NetName=NetD?_7 Pin=U?-23
+Added Net: Name=NetD?_7
+Added Pin To Net: NetName=NetD?_8 Pin=D?-8
+Added Pin To Net: NetName=NetD?_8 Pin=D?-8
+Added Pin To Net: NetName=NetD?_8 Pin=D?-8
+Added Pin To Net: NetName=NetD?_8 Pin=D?-8
+Added Pin To Net: NetName=NetD?_8 Pin=U?-22
+Added Net: Name=NetD?_8
+Added Member To Class: ClassName=main Member=Component D? LED8*8-BOTTOM
+Added Member To Class: ClassName=main Member=Component D? LED8*8-BOTTOM
+Added Member To Class: ClassName=main Member=Component D? LED8*8-TOP
+Added Member To Class: ClassName=main Member=Component D? LED8*8-TOP
+Added Member To Class: ClassName=main Member=Component D? LED8*8-BOTTOM
+Added Member To Class: ClassName=main Member=Component D? LED8*8-TOP
+Added Member To Class: ClassName=main Member=Component D? LED8*8-TOP
+Added Member To Class: ClassName=main Member=Component D? LED8*8-BOTTOM
+Added Member To Class: ClassName=main Member=Component U? HT1632C
